@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics.
+bio: My research interests include GIS.
 education:
   courses:
   - course: PhD in Transportation Geography and Time Geography
