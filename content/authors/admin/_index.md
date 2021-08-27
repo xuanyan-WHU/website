@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include distributed robotics.
 education:
   courses:
   - course: PhD in Transportation Geography and Time Geography
