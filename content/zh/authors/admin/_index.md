@@ -2,8 +2,7 @@
 bio: My research interests include GIS.
 education:
   courses:
-  - course: PhD Student in Transportation Geography and Time Geography
-    institution: Wuhan University, Wuhan, China
+  - course: 博士学生，交通与时间地理学
     year: 2021-now
   - course: MS in Spatial Data Science
     institution: University of Southern California, Los Angeles, USA
@@ -43,5 +42,5 @@ title:
 
 Xuanyan Chen is a first year PhD student of transportation and time geography at the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS), Wuhan University. His research interests include spatial data mining, transportation big data analysis, urban space usage and Spatio-temporal analysis. Before he joined in LIESMARS, he worked in AutoNavi, Alibaba Group as a geospatial data engineer, in charge of data check and ADAS.
 
+Contact me for the resumé.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -18,7 +18,7 @@ interests:
 - Transportation GIS
 - Spatio-temporal Big Data
 organizations:
-- name: The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS), Wuhan University
+- name: The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS)
   url: http://www.lmars.whu.edu.cn/en/
 role: PhD Student in LIESMARS, Wuhan University
 social:
@@ -43,5 +43,5 @@ title:
 
 Xuanyan Chen is a first year PhD student of transportation and time geography at the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS), Wuhan University. His research interests include spatial data mining, transportation big data analysis, urban space usage and Spatio-temporal analysis. Before he joined in LIESMARS, he worked in AutoNavi, Alibaba Group as a geospatial data engineer, in charge of data check and ADAS.
 
+Contact me for the resumé.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

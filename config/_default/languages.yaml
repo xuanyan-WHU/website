@@ -10,32 +10,32 @@ en:
   title: Xuanyan Chen
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: zh-Hans
-  contentDir: content/zh
-  title: 陈炫岩
-  params:
-    description: Site description in Chinese...
-  menu:
-    main:
-    - name: 关于我
-      url: '#about'
-      weight: 10
-    - name: 工作经历
-      url: '#experience'
-      weight: 20
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
-#  - name: Publications
-#    url: '#featured'
-#    weight: 50
-#  - name: Courses
-#    url: courses/
-#    weight: 60
-    - name: 联系方式
-      url: '#contact'
-      weight: 70
+# zh:
+#   languageCode: zh-Hans
+#   contentDir: content/zh
+#   title: 陈炫岩
+#   params:
+#     description: Site description in Chinese...
+#   menu:
+#     main:
+#     - name: 关于我
+#       url: '#about'
+#       weight: 10
+#     - name: 工作经历
+#       url: '#experience'
+#       weight: 20
+# #  - name: Projects
+# #    url: '#projects'
+# #    weight: 30
+# #  - name: Talks
+# #    url: '#talks'
+# #    weight: 40
+# #  - name: Publications
+# #    url: '#featured'
+# #    weight: 50
+# #  - name: Courses
+# #    url: courses/
+# #    weight: 60
+#     - name: 联系方式
+#       url: '#contact'
+#       weight: 70
