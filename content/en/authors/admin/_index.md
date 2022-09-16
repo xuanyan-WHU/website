@@ -5,10 +5,10 @@ education:
   - course: Eng.D. Student in Transportation Geography and Time Geography
     institution: Wuhan University, Wuhan, China
     year: 2021-now
-  - course: MS in Spatial Data Science
+  - course: M.S. in Spatial Data Science
     institution: University of Southern California, Los Angeles, USA
     year: 2020
-  - course: BEng in Remote Sensing Science and Technology
+  - course: B.Eng in Remote Sensing Science and Technology
     institution: China University of Geosciences, Wuhan, China
     year: 2018
 email: ""
@@ -16,7 +16,7 @@ highlight_name: false
 interests:
 - Time Geography
 - Transportation GIS
-- Spatio-temporal Big Data
+- Spatiotemporal Big Data
 organizations:
 - name: The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS)
   url: http://www.lmars.whu.edu.cn/en/
