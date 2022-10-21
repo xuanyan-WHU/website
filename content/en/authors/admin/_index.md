@@ -2,7 +2,7 @@
 bio: My research interests include GIS.
 education:
   courses:
-  - course: Eng.D. Student in Transportation Geography and Time Geography
+  - course: Ph.D. Student in Transportation Geography and Time Geography
     institution: Wuhan University, Wuhan, China
     year: 2021-now
   - course: M.S. in Spatial Data Science
@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS)
   url: http://www.lmars.whu.edu.cn/en/
-role: Eng.D. Student in LIESMARS, Wuhan University
+role: Ph.D. Student in LIESMARS, Wuhan University
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,7 +41,7 @@ superuser: true
 title: 
 ---
 
-Xuanyan Chen is a second year Eng.D. student in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS), Wuhan University. His research interests include spatiotemporal data mining, geocomputational social science, human mobility, and time geography. Before joining in LIESMARS, he worked in AutoNavi, Alibaba Group as a geospatial data engineer, in charge of data quality control and ADAS.
+Xuanyan Chen is a second year Ph.D. student in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS), Wuhan University. His research interests include spatiotemporal data mining, geocomputational social science, human mobility, and time geography. Before joining in LIESMARS, he worked in AutoNavi, Alibaba Group as a geospatial data engineer, in charge of data quality control and ADAS.
 
 Contact me for the resumé.
 
